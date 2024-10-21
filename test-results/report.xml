@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="7" failures="0" errors="0" time="1.68">
+  <testsuite name="퀵메뉴 컴포넌트 테스트" errors="0" failures="0" skipped="0" timestamp="2024-04-18T14:36:52" time="0.419" tests="2">
+    <testcase classname="퀵메뉴 컴포넌트 테스트 위로 가기 버튼 클릭 테스트" name="퀵메뉴 컴포넌트 테스트 위로 가기 버튼 클릭 테스트" time="0.017">
+    </testcase>
+    <testcase classname="퀵메뉴 컴포넌트 테스트 아래로 가기 버튼 클릭 테스트" name="퀵메뉴 컴포넌트 테스트 아래로 가기 버튼 클릭 테스트" time="0.004">
+    </testcase>
+  </testsuite>
+  <testsuite name="AdminLoginPage" errors="0" failures="0" skipped="0" timestamp="2024-04-18T14:36:52" time="0.473" tests="3">
+    <testcase classname="AdminLoginPage 헤더 &amp; 푸터 숨김 true mount 설정" name="AdminLoginPage 헤더 &amp; 푸터 숨김 true mount 설정" time="0.02">
+    </testcase>
+    <testcase classname="AdminLoginPage form 형식으로 email, password 입력을 통한 관리자 로그인" name="AdminLoginPage form 형식으로 email, password 입력을 통한 관리자 로그인" time="0.009">
+    </testcase>
+    <testcase classname="AdminLoginPage 관리자 로그인 성공 시 /admin/tag/register 경로로 이동" name="AdminLoginPage 관리자 로그인 성공 시 /admin/tag/register 경로로 이동" time="0.004">
+    </testcase>
+  </testsuite>
+  <testsuite name="일반회원 회원가입 페이지 테스트" errors="0" failures="0" skipped="0" timestamp="2024-04-18T14:36:52" time="0.584" tests="2">
+    <testcase classname="일반회원 회원가입 페이지 테스트 전체 약관 동의 버튼 클릭" name="일반회원 회원가입 페이지 테스트 전체 약관 동의 버튼 클릭" time="0.031">
+    </testcase>
+    <testcase classname="일반회원 회원가입 페이지 테스트 프로필 이미지 업로드 테스트" name="일반회원 회원가입 페이지 테스트 프로필 이미지 업로드 테스트" time="0.007">
+    </testcase>
+  </testsuite>
+</testsuites>
